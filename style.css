@@ -55,7 +55,7 @@
 
 .scroll-y {
   overflow-y: auto;
-  height: calc(100vh - 200px);
+  height: calc(100% - 20px);
 }
 .AboutMe {
   font-size: 12px;
@@ -253,9 +253,6 @@
   color: black;
 }
 
-@media screen and (max-width: 600px) {
-
-}
 /*# sourceMappingURL=LeftNavBar.css.map */
 
 .portfolio {
