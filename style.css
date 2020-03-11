@@ -272,7 +272,7 @@
       -ms-flex-pack: justify;
           justify-content: space-between;
   overflow-y: auto;
-  height: calc(100vh - 20px);
+  height: calc(100% - 20px);
 }
 
 .portfolio__header {
@@ -377,7 +377,7 @@
 
 .Qualifications {
   overflow-y: scroll;
-  height: calc(100vh - 20px);
+  height: calc(100% - 20px);
 }
 
 .Qualifications--smallFont {
@@ -428,7 +428,7 @@
       -ms-flex-pack: justify;
           justify-content: space-between;
   overflow-y: auto;
-  height: calc(100vh - 20px);
+  height: calc(100% - 20px);
 }
 
 .sertificates__item {
